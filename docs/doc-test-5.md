@@ -27,4 +27,10 @@ cdd
 
 file:/Users/ori/git/functions/frontend/src/assets/logo-v4.svg
 
+
+```typescript
+const a = "hello world";
+console.log(a);
+```
+
 ![](/assets/logo-v4.svg)
