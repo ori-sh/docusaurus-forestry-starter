@@ -17,7 +17,7 @@ sections:
   create: documents
   match: "*.md"
 upload_dir: assets
-public_path: "/assets"
+public_path: https://s3.amazonaws.com/ol-serverless-docs
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
